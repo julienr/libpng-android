@@ -1,6 +1,6 @@
 libpng for Android 
 ==================
-This is a repackaging of libpng 1.4.1 for Android by Julien Rebetez.
+This is a repackaging of libpng 1.6.15 for Android by Julien Rebetez.
 
 Most changes went in config.h and writing the Makefiles.
 
