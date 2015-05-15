@@ -15,6 +15,7 @@ LOCAL_SRC_FILES :=\
 	pngrtran.c \
 	pngrutil.c \
 	pngset.c \
+	pngtest.c \
 	pngtrans.c \
 	pngwio.c \
 	pngwrite.c \
