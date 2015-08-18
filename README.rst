@@ -12,3 +12,7 @@ The 'master' branch of this repository contains upstream version 1.6.15. This
 hasn't been tested much on Android.
 
 The 'stable' branch of this repository contains the older 1.4.1 version which works fine on Android.
+
+See the wiki_ for an example Android usage and links to documentation.
+
+.. _wiki: https://github.com/julienr/libpng-android/wiki
