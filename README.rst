@@ -15,4 +15,7 @@ The 'stable' branch of this repository contains the older 1.4.1 version which wo
 
 See the wiki_ for an example Android usage and links to documentation.
 
+You might also be interested in lodepng_
+
 .. _wiki: https://github.com/julienr/libpng-android/wiki
+.. _lodepng: https://github.com/lvandeve/lodepng
