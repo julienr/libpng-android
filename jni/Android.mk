@@ -20,7 +20,10 @@ LOCAL_SRC_FILES :=\
 	pngwio.c \
 	pngwrite.c \
 	pngwtran.c \
-	pngwutil.c
+	pngwutil.c \
+	arm/arm_init.c \
+	arm/filter_neon.S \
+	arm/filter_neon_intrinsics.c
 
 #LOCAL_SHARED_LIBRARIES := -lz
 LOCAL_EXPORT_LDLIBS := -lz
