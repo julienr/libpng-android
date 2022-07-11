@@ -23,7 +23,8 @@ LOCAL_SRC_FILES :=\
 	pngwutil.c \
 	arm/arm_init.c \
 	arm/filter_neon.S \
-	arm/filter_neon_intrinsics.c
+	arm/filter_neon_intrinsics.c \
+	arm/palette_neon_intrinsics.c
 
 #LOCAL_SHARED_LIBRARIES := -lz
 LOCAL_EXPORT_LDLIBS := -lz

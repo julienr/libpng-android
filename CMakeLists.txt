@@ -16,7 +16,6 @@ set( headers
     ${source_dir}/pngconf.h
     ${source_dir}/pngdebug.h
     ${source_dir}/pnglibconf.h
-    ${source_dir}/pngprefix.h
     ${source_dir}/pngpriv.h
     ${source_dir}/pngstruct.h
 )
@@ -60,7 +59,7 @@ target_include_directories( ${project_name} PUBLIC
 
 include( CMakePackageConfigHelpers )
 
-set( PNG_VERSION 1.6.29 )
+set( PNG_VERSION 1.6.37 )
 set( PNG_EXPORT_DIR share/png-${PNG_VERSION}/cmake )
 set( PNG_EXPORT_NAME png-export )
 
